@@ -1,0 +1,9 @@
+y = mx + c
+m = slop
+c = intercept 
+Residual/Error = (Absolute value)
+
+Where we can use Linear regression model:
+* Linearity : Y increase or decreases at constant rate as x increases 
+* independencs : All data points are independent of each other 
+* Normal distribution of residual points
